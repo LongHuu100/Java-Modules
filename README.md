@@ -13,4 +13,4 @@ To compile the application simply run the bash script `run.sh`. It will create t
 and compile in the correct order all the modules.
 
 To run the application use the follwing command:
-    `java --module-path mods/app.jar --module com.yopeso.app`
+    `java --module-path mods/app.jar --module vn.p.app`
